@@ -1,4 +1,4 @@
 # jquery
 jquery
 
-https://mdnayonbabujibon.github.io/jquery/.
+https://developernayonb.github.io/jquery/
